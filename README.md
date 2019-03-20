@@ -20,6 +20,8 @@
 
 
 ## Funcionamiento 
+
+Al hacer la respectiva conexion de los materiales ya mencionados, y la conexion de la placa con el computador y habiendo hecho la respectiva lectura del codigo, despues de subir el codigo a la placa se tendra quer ser visible la palabra "Led Pong" en las mtarices y posteriormente el desarrollo del juego marcdando un resultado final de maximo 5 puntos para que el juego veulva a a iniciar. 
             
 ## Diagrama Esquemático: 
 ![Proyecto Guiado_esquemático](https://user-images.githubusercontent.com/47116861/54659618-9f56cf00-4aa0-11e9-88d1-b45a2035a7f2.png)
