@@ -37,6 +37,8 @@ Al hacer la respectiva conexión de los materiales ya mencionados, y la conexió
 ![FREECAD2](https://user-images.githubusercontent.com/47116861/54664761-2ad95b80-4ab3-11e9-85b1-758a3259a91b.jpg)
 ![FREECAD3](https://user-images.githubusercontent.com/47116861/54664762-2b71f200-4ab3-11e9-99f5-7b20de9d3b77.jpg)
 ![FREECAD4](https://user-images.githubusercontent.com/47116861/54664763-2b71f200-4ab3-11e9-8aa9-4b81315e0368.jpg)
+![FREECAD5](https://user-images.githubusercontent.com/47116861/54665688-bc49cd00-4ab5-11e9-9626-c88133c4f8f0.jpg)
+
 
 
 
