@@ -9,7 +9,8 @@
              - Gabriel Steven Murcia Castelblanco (Diseñador)
             
 ## Diagrama Esquemático: 
-![2](https://user-images.githubusercontent.com/47116861/53704084-ee390f00-3de6-11e9-9591-af93a24252cb.png)
+![Proyecto Guiado_esquemático](https://user-images.githubusercontent.com/47116861/54659618-9f56cf00-4aa0-11e9-88d1-b45a2035a7f2.png)
+g)
 
 
 ## Diagrama Pictórico:
