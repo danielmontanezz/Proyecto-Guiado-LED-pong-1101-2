@@ -31,7 +31,7 @@ Al hacer la respectiva conexión de los materiales ya mencionados, y la conexió
 ## Diagrama Pictórico:
 ![1](https://user-images.githubusercontent.com/47116861/53704085-ee390f00-3de6-11e9-9b56-44740ae95645.png)
 
-## Diseño en 3D
+## Diseño en 3D-FreeCAD
 ![FREECAD](https://user-images.githubusercontent.com/47116861/54664759-2ad95b80-4ab3-11e9-9cf3-e2ee564a728a.jpg)
 ![FREECAD1](https://user-images.githubusercontent.com/47116861/54664760-2ad95b80-4ab3-11e9-8677-c65150243425.jpg)
 ![FREECAD2](https://user-images.githubusercontent.com/47116861/54664761-2ad95b80-4ab3-11e9-85b1-758a3259a91b.jpg)
