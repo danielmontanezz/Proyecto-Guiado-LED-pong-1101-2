@@ -32,6 +32,11 @@ Al hacer la respectiva conexión de los materiales ya mencionados, y la conexió
 ![1](https://user-images.githubusercontent.com/47116861/53704085-ee390f00-3de6-11e9-9b56-44740ae95645.png)
 
 ## Diseño en 3D
+![FREECAD](https://user-images.githubusercontent.com/47116861/54664759-2ad95b80-4ab3-11e9-9cf3-e2ee564a728a.jpg)
+![FREECAD1](https://user-images.githubusercontent.com/47116861/54664760-2ad95b80-4ab3-11e9-8677-c65150243425.jpg)
+![FREECAD2](https://user-images.githubusercontent.com/47116861/54664761-2ad95b80-4ab3-11e9-85b1-758a3259a91b.jpg)
+![FREECAD3](https://user-images.githubusercontent.com/47116861/54664762-2b71f200-4ab3-11e9-99f5-7b20de9d3b77.jpg)
+![FREECAD4](https://user-images.githubusercontent.com/47116861/54664763-2b71f200-4ab3-11e9-8aa9-4b81315e0368.jpg)
 
 
 
