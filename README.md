@@ -8,6 +8,16 @@
              - Diego Alejandro Molano Bayona (Programador)
              - Gabriel Steven Murcia Castelblanco (Diseñador)
 ## Materiales
+             - Placa Arduino Mega 2560
+             - Protoboard
+             - Jumpers m.m m.h h.h
+             - 1 Buzzer
+             - 6 matrices led 8x8 con controlador MAX7219
+             - 2 potenciometros 
+             - 1 Resistencia 150 Ohm
+             - Carton industrial
+             
+
 
 ## Funcionamiento 
             
