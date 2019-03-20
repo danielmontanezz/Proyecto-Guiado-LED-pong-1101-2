@@ -25,7 +25,7 @@ Al hacer la respectiva conexión de los materiales ya mencionados, y la conexió
             
 ## Diagrama Esquemático: 
 ![Proyecto Guiado_esquemático](https://user-images.githubusercontent.com/47116861/54659618-9f56cf00-4aa0-11e9-88d1-b45a2035a7f2.png)
-g)
+
 
 
 ## Diagrama Pictórico:
