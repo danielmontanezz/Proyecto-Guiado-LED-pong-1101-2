@@ -39,6 +39,8 @@ Al hacer la respectiva conexión de los materiales ya mencionados, y la conexió
 
 ## Planos de la construcción 
 
+![PlanoLedPong](https://user-images.githubusercontent.com/47116861/55041978-9cf2f880-4ffd-11e9-9ff5-b55d038a87f0.jpg)
+
 
 
 
