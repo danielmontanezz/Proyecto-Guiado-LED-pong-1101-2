@@ -9,19 +9,16 @@
 
 
 *Plano de construcción
-
-
-
-
-
+![PlanoLedPong](https://user-images.githubusercontent.com/47116861/55041978-9cf2f880-4ffd-11e9-9ff5-b55d038a87f0.jpg)
 
 
 *Modelo 3d FreeCAD
 
-
-
-
-
+![image (4)](https://user-images.githubusercontent.com/47117044/55044842-d29dde80-5009-11e9-8b45-1ebc3939bf08.png)
+![image (3)](https://user-images.githubusercontent.com/47117044/55044843-d29dde80-5009-11e9-8e4f-075af6b7f06d.png)
+![image (2)](https://user-images.githubusercontent.com/47117044/55044844-d29dde80-5009-11e9-9974-e226a41a7349.png)
+![image (1)](https://user-images.githubusercontent.com/47117044/55044846-d3367500-5009-11e9-88dd-51aaf7ddfdef.png)
+![image](https://user-images.githubusercontent.com/47117044/55044847-d3367500-5009-11e9-88aa-cd2200493594.png)
 
 
 
